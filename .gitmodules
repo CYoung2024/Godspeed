@@ -1,0 +1,3 @@
+[submodule ".local/share/icons"]
+	path = .local/share/icons
+	url = https://bitbucket.org/dirn-typo/yet-another-monochrome-icon-set/src/main/
